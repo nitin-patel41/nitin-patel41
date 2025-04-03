@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @nitin-patel41
-- 👀 I’m interested in Java Programming and compititive Coding.
-- 🌱 I’m currently learning Bachelor of technology with Computer Science
-- 💞️ I’m looking to collaborate on.....
-- 📫 reach me via.. Email.
-
-<!---
-nitin-patel41/nitin-patel41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 I am Nitin Patel, a seasoned Microsoft Power Platform developer with expertise in Microsoft Power Apps, Microsoft Power Automate,  JavaScript and various Configurations and Customization techniques. My proficiency extends to building model-driven apps, crafting canvas apps, and harnessing the full potential of Power Apps. Additionally, I specialize in writing plugins and implementing PCF controls. I excel in creating Microsoft Power Automate Business Process Automation.
+ 
+🔍 My passion lies in developing tailored solutions that optimize business processes and drive productivity. My adaptable and learning-oriented approach enables me to stay ahead in the ever-evolving Power Platform landscape, ensuring I can deliver impactful results for any project.
